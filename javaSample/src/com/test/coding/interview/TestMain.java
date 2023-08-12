@@ -1,4 +1,4 @@
-package com.test.java;
+package com.test.coding.interview;
 
 public class TestMain {
 public static void main(String[] args) {
